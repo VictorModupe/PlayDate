@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533469404118",
+    "firebase_url": "https://playdate-8f9f2-default-rtdb.firebaseio.com",
+    "project_id": "playdate-8f9f2",
+    "storage_bucket": "playdate-8f9f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533469404118:android:741b6b9f6262124891e277",
+        "android_client_info": {
+          "package_name": "com.oluwamayowaadeoni.playdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533469404118-0fdpjb3ct8qa9s9r1qa3vq5l96gnv0oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrmdySnb0aG-PENdO8fauiF8fSbCUZaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533469404118-0fdpjb3ct8qa9s9r1qa3vq5l96gnv0oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
